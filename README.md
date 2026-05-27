@@ -6,5 +6,5 @@
 | **개인정보 처리방침 (KR)** | [바로가기](./kr_privacy_policy.md) | 2026. 05. 27. |
 | **Privacy Policy (EN)** | [View Details](./en_privacy_policy.md) | 2026. 05. 27. |
 | **Terms of Service (EN)** | [View Details](./en_terms_of_service.md) | 2026. 05. 27. |
-| **利用規約 (JV)** | [View Details](./jv_privacy_policy.md) | 2026. 05. 27. |
-| **個人情報処理方針 (JA)** | [View Details](./jv_terms_of_service.md) | 2026. 05. 27. |
+| **利用規約 (JA)** | [View Details](./ja_privacy_policy.md) | 2026. 05. 27. |
+| **個人情報処理方針 (JA)** | [View Details](./ja_terms_of_service.md) | 2026. 05. 27. |
